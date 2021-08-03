@@ -1,4 +1,4 @@
-package one.digitalinnovation.citiesapi.city;
+package one.digitalinnovation.citiesapi.city.controller;
 
 import one.digitalinnovation.citiesapi.city.model.entity.City;
 import one.digitalinnovation.citiesapi.city.repository.CityRepository;
